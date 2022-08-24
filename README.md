@@ -1,6 +1,14 @@
 # STEM: La bibliothèque idéale en 150 Livres de l'ingénieur système
 
+La librairie de livre est le strict mininum des connaissances en STEM pour l'ingénieur système voulant ce lancer dans l'industrie minière spatiale. L'ingénieur doit surtout savoir trouver de l'information, et ces références doivent aider à la mise en oeuvre industrielle.
+
 L'intérêt est de ce construire une bibliothèque idéale en utilisant le moteur de recherche de [Chasse aux livres](https://www.chasse-aux-livres.fr) au meilleur prix disponible.
+
+Compter un budget de 7500€. Un investissement de 200€ par mois. Il faudra 3 ans pour réunir les livres. C'est un projet long terme pour boostrapper l'entreprise et le conseil en R&D à travers la disponibilité du savoir.
+
+Forker et partager, toutes suggestions est la bienvenue
+
+L'introduction de la librairie commence par un empereur stoîcien qui enseigne l'autodiscipline.
 
 ### Philosophie
 
@@ -150,7 +158,7 @@ L'intérêt est de ce construire une bibliothèque idéale en utilisant le moteu
 * Aerospace Engineering: Design, Development and Applications; S. Baggins
 
 
-# Mining
+### Mining
 
 * Principles of Mineral Processing; Fuerstenau, Han
 * Mining Engineering Analysis, Second Edition; C. Bise
