@@ -36,3 +36,21 @@ L'intérêt est de ce construire une bibliothèque idéale en utilisant le moteu
 * [Physique quantique et représentation du monde; E. Schrodinger - 8,50€](https://www.leslibraires.fr/livre/666265-physique-quantique-et-representation-du-monde-erwin-schrodinger-points?affiliate=chasse-aux-livres)
 * [Les objets fractals; B. Mandelbrot - 9€](https://www.leslibraires.fr/livre/1276386-les-objets-fractals-forme-hasard-et-dimension-benoit-mandelbrot-flammarion?affiliate=chasse-aux-livres)
 * [Le cygne noir; N.Taleb - 15,90€](https://www.leslibraires.fr/livre/17046879-le-cygne-noir-suivi-de-force-et-fragilite-la--nassim-nicholas-taleb-belles-lettres?affiliate=chasse-aux-livres)
+* [La plénitude de l'univers; D Bohm - 21€](https://livre.fnac.com/a1755649/David-Bohm-La-Plenitude-de-l-univers)
+
+### Physique 
+
+* [Le mininum théorique; Leonard Susskind, George Hrabovsky - 19,50€](https://www.leslibraires.fr/livre/8081303-le-minimum-theorique-tout-ce-que-vous-avez-bes--leonard-susskind-george-hrabovsky--presses-polytechniques-et-universitaires-romandes?affiliate=chasse-aux-livres)
+* [Cours de physique de Richard Feynman T1 à T5 - 44€ x 5 = 220€](https://www.dunod.com/recherche?text=cours+physique+feynman)
+* [Physique Théorique : Mécanique des Fluides; Lev Landau, Evgueni Lifchitz - 49,70€](https://www.leslibraires.fr/livre/775612-cours-de-physique-theorique-mecanique-des-flu--lev-davidovitch-landaou-evgueni-mikhailovitch--editions-ellipses)
+* [Relativité restreinte - Des particules à l'astrophysique; Eric Gourgoulhon - 70€](https://livre.fnac.com/a2411309/Eric-Gourgoulhon-Relativite-restreinte-Des-particules-a-l-astrophysique)
+* [Spacetime and Geometry: An Introduction to General Relativity 1st Edition; Sean M. Carroll - 80€](https://fr.shopping.rakuten.com/offer/buy/4092815644/spacetime-and-geometry.html)
+* [Physique des solides; Ashcroft, Mermin - 66€](https://livre.fnac.com/a1812350/Neil-William-Ashcroft-Physique-des-solides)
+* [Supraconductivité introduction; Mangin, Kahn - 59€](https://fr.shopping.rakuten.com/offer/buy/191514804/supraconductivite-de-mangin.html)
+* [Mécanique quantique; Basdevant, Dalibard, Joffre - 35€](https://www.eyrolles.com/Sciences/Livre/mecanique-quantique-9782730209144/?ae=32)
+* [Classical Electrodynamics Third Edition; Jackson - 125€](https://fr.shopping.rakuten.com/offer/buy/18640100/John-David-Jackson-Classical-Electrodynamics-Livre.html)
+* [Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light 7th Edition; Max Born, Emil Wolf - 65€](https://www.decitre.fr/livres/principles-of-optics-9780521642224.html)
+* [Thermodynamique (2007); B.Diu, C.Guthmann, D.Lederer, B.Roulet - 68€](https://www.decitre.fr/livre-pod/thermodynamique-9782705666866.html)
+* [Physique statistique; Bernard Diu - 120€](https://www.decitre.fr/livre-pod/elements-de-physique-statistique-9782705660659.html)
+* [Physique des plasmas; J-M Rax](https://www.decitre.fr/livre-pod/physique-des-plasmas-9782100072507.html)
+* [Astronomie Astrophysique; Acker - 42€](https://www.leslibraires.fr/livre/15563844-astronomie-astrophysique-5e-ed--agnes-acker-dunod)
