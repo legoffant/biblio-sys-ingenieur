@@ -54,3 +54,15 @@ L'intérêt est de ce construire une bibliothèque idéale en utilisant le moteu
 * [Physique statistique; Bernard Diu - 120€](https://www.decitre.fr/livre-pod/elements-de-physique-statistique-9782705660659.html)
 * [Physique des plasmas; J-M Rax - 50€](https://www.decitre.fr/livre-pod/physique-des-plasmas-9782100072507.html)
 * [Astronomie Astrophysique; Acker - 42€](https://www.leslibraires.fr/livre/15563844-astronomie-astrophysique-5e-ed--agnes-acker-dunod)
+
+### Mathématiques
+
+* [Qu'est-ce que les mathématiques ? Une introduction élémentaire aux idées et aux méthodes; H.Robbins - 24€](https://www.leslibraires.fr/livre/13066648-qu-est-ce-que-les-mathematiques-introduction--herbert-robbins-vuibert)
+* [Les six premiers livres des Eléments d'Euclide; Oliver Byrne - 51€](https://www.biblio.com/book/oliver-byrne-six-books-euclid-werner/d/1489896252)
+* [Recoltes et semailles; Alexandre Grothedieck - 29,50€](https://www.decitre.fr/livres/recoltes-et-semailles-9782072889752.html)
+* [Elements de mathématiques; N.Bourbaki 13 tomes x 50€](https://www.springer.com/series/7436)
+* [Le fascinant nombre pi; J-P Delahaye - 22€](https://www.leslibraires.fr/livre/13760470-le-fascinant-nombre-pi-jean-paul-delahaye-belin)
+* [Gödel, Escher, Bach; D. Hofstadter - 49€](https://www.leslibraires.fr/livre/19362170-godel-escher-bach-les-brins-d-une-guirlande--douglas-hofstadter-dunod)
+* [Organon, Aristote - Tomes I & II x 10,50€](https://www.decitre.fr/livres/categories-sur-l-interpretation-9782080710826.html)
+* [Les cours de mathématiques; Ramis, Deschamps, Odoux - 5 tomes x 45€](https://www.amazon.fr/s?k=cours+math%C3%A9matiques+ramis+deschamps&i=stripbooks&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=18VVJQMZKHSU8&sprefix=cours+math%C3%A9matiques+ramis+deschamps%2Cstripbooks%2C79&ref=nb_sb_noss)
+* [Principia - Principes mathématiques de la philosophie naturelle; I. Newton - 60€](https://www.leslibraires.fr/livre/1920905-principia-principes-mathematiques-de-la-philo--isaac-newton-dunod)
