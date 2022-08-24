@@ -52,5 +52,5 @@ L'intérêt est de ce construire une bibliothèque idéale en utilisant le moteu
 * [Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light 7th Edition; Max Born, Emil Wolf - 65€](https://www.decitre.fr/livres/principles-of-optics-9780521642224.html)
 * [Thermodynamique (2007); B.Diu, C.Guthmann, D.Lederer, B.Roulet - 68€](https://www.decitre.fr/livre-pod/thermodynamique-9782705666866.html)
 * [Physique statistique; Bernard Diu - 120€](https://www.decitre.fr/livre-pod/elements-de-physique-statistique-9782705660659.html)
-* [Physique des plasmas; J-M Rax](https://www.decitre.fr/livre-pod/physique-des-plasmas-9782100072507.html)
+* [Physique des plasmas; J-M Rax - 50€](https://www.decitre.fr/livre-pod/physique-des-plasmas-9782100072507.html)
 * [Astronomie Astrophysique; Acker - 42€](https://www.leslibraires.fr/livre/15563844-astronomie-astrophysique-5e-ed--agnes-acker-dunod)
