@@ -8,6 +8,7 @@ L'intérêt est de ce construire une bibliothèque idéale en utilisant le moteu
 * [Discours de la méthode; R. Descarte - 2€](https://www.leslibraires.fr/livre/18966609-discours-de-la-methode-pour-bien-conduire-sa-r--rene-descartes-j-ai-lu?affiliate=chasse-aux-livres)
 * [Empirisme et métaphysique: l'Essai sur l'origine des connaissances humaines de Condillac; André Charrak - 24€](https://www.leslibraires.fr/livre/613959-empirisme-et-metaphysique-l-essai-sur-l-origin--andre-charrak-vrin?affiliate=chasse-aux-livres)
 * [Introduction à la pensée complexe; Edgar Morin - 7,5€](https://www.leslibraires.fr/livre/6995851-introduction-a-la-pensee-complexe-reedition--edgar-morin-points?affiliate=chasse-aux-livres)
+* [Les épistémologies constructivistes; J-L Le Moigne - 9€](https://livre.fnac.com/a4232656/Jean-Louis-Le-Moigne-Les-Epistemologies-constructivistes)
 
 ### Essais et sciences
 
